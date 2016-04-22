@@ -1,0 +1,23 @@
+{
+  "name": "Portfolio App",
+  "version": "1.0.0",
+  "description": "Valery's Maleieva portfoloio",
+  "repository":"https://github.com/nicolaigaina/Portfolio-example-app.git",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "The",
+    "Portfoloio",
+    "App"
+  ],
+  "author": "Nicolai Gaina",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "nodemailer": "*"
+  }
+}

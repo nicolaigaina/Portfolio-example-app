@@ -1,0 +1,8 @@
+{
+ "name":"Portfolio app example",
+ "description":"an easy way to create a portfolio app in node js",
+ "repository":"https://github.com/nicolaigaina/Portfolio-example-app",
+ "keywords":["nodejs","express","static"],
+ "logo":"",
+ "image":""
+}
